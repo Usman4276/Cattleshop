@@ -1,0 +1,53 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.CR-main-body{
+    margin: 5% 30%;
+    height: 60vh;
+}
+
+@media screen and (max-width:1440px){
+    .CR-main-body{
+        margin: 5% 10% 15% 10%;
+    }
+    .cr-body{
+        margin: 5% 23%;
+    }
+    .c-h1{
+        font-size: 270%;
+    }
+  }
+  @media screen and (max-width:1024px){
+    .CR-main-body{
+        margin: 5% 10% 15% 10%;
+    }
+    .cr-body{
+        margin: 5% 23%;
+    }
+    .c-h1{
+        font-size: 220%;
+    }
+  }  
+@media screen and (max-width:768px){
+    .CR-main-body{
+        margin: 5% 10% 15% 10%;
+    }
+    .cr-body{
+        margin: 5% 10%;
+    }
+    .c-h1{
+        font-size: 170%;
+    }
+  }
+@media screen and (max-width:525px){
+    .CR-main-body{
+        margin: 20% 1% 8% 1%;
+    }
+}

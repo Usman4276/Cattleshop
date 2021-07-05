@@ -1,0 +1,177 @@
+.optional-body{
+    margin: 8% 7% 5% 7%;
+    min-height: 60vh;
+}
+.select-consultant-list{
+    height: 30vh;
+    width: 45vh;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+    position: absolute;
+    overflow-y: scroll;
+}
+.select-pd-list{
+    height: 30vh;
+    width: 45vh;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+    position: absolute;
+    overflow-y: scroll;
+}
+.selected-optional{
+    height: 30vh;
+    width: 45vh;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.optional-h4{
+    text-align: center;
+}
+.opt-btn{
+    text-align: center;
+}
+@media screen and (max-width:1920px){
+    .optional-body{
+        margin: 8% 7% 5% 7%;
+        min-height: 60vh;
+    }
+    .select-consultant-list{
+        height: 30vh;
+        width: 45vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .select-pd-list{
+        height: 30vh;
+        width: 45vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .selected-optional{
+        height: 30vh;
+        width: 45vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+    }
+}
+@media screen and (max-width:1440px){
+    .optional-body{
+        margin: 8% 5% 5% 5%;
+        min-height: 60vh;
+    }
+    .opt-btn{
+        text-align: center;
+        margin-right: 3rem;
+    }
+    .select-consultant-list{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .select-pd-list{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .selected-optional{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+    }
+    .optional-h4{
+        font-size: 120%;
+        text-align: center;
+    }
+}
+@media screen and (max-width:1024px){
+    .optional-body{
+        margin: 8% 5% 5% 5%;
+        min-height: 60vh;
+    }
+    .select-consultant-list{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .select-pd-list{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .selected-optional{
+        height: 30vh;
+        width: 30vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+    }
+    .optional-h4{
+        font-size: 120%;
+        text-align: center;
+    }
+}
+@media screen and (max-width:1024px){
+    .optional-body{
+        margin: 8% 3% 10% 3%;
+        min-height: 60vh;
+    }
+    .select-consultant-list{
+        height: 30vh;
+        width: 25vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+        margin-top: 1.5rem;
+    }
+    .select-pd-list{
+        height: 30vh;
+        width: 25vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+        position: absolute;
+        overflow-y: scroll;
+    }
+    .selected-optional{
+        margin-top: 1.5rem;
+        height: 30vh;
+        width: 25vh;
+        padding: 15px;
+        background-color: lightgray;
+        border-radius: 15px;
+    }
+    .optional-h4{
+        font-size: 120%;
+        text-align: center;
+    }
+}

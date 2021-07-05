@@ -1,0 +1,38 @@
+.tcahtb{ 
+    list-style-position: outside;
+}
+
+#mylisthtb{
+    margin: 5% 15% 0% 15%;
+}
+
+#list1htb{
+    list-style-type:disc;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.HTB-body{
+    margin: 8% 20% 10% 20%;
+    min-height: 50vh;
+}
+
+.htb-para{
+    font-size: 100%;
+}
+
+@media screen and (max-width:768px){
+    .HTB-body{
+        margin: 20% 20% 10% 20%;
+    }
+    #mylisthtb{
+        margin: 5% 0% 0% 0%;
+    }
+    .htb-para{
+        font-size: 75%;
+        text-align:justify;
+    }
+    .HTB-headings-h1{
+        font-size: 170%;
+    }
+}

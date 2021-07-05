@@ -1,0 +1,78 @@
+body {
+    background: #fff;
+}
+
+.jc-body{
+    margin: 5% 15% 5% 15%;
+    min-height: 60vh;
+}
+form {
+    margin: 0;
+    padding: 0;
+}
+
+.jsformWrapper {
+    border-radius: 15px;
+    border: 1px solid rgba(196, 21, 28, 0.50);
+    padding: 2rem;
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 2px;
+    margin-top: 2rem;
+    box-shadow: 0 7px 5px #eee;
+    height: 40rem;
+    text-align: center;
+}
+
+    .jsformWrapper .formFielWrapper label {
+        width: 300px;
+        float: left;
+    }
+
+    .jsformWrapper .formFielWrapper input {
+        width: 300px;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        float: left;
+        font-family: sans-serif;
+        
+    }
+    .jsform-body{
+        text-align: center;
+        margin-left: 9.7rem;
+    }
+    .jsform-body2{
+        margin-left: 4rem;
+        
+    }
+    .jsformWrapper .formFielWrapper {
+        float: left;
+        margin-bottom: 1rem;
+    }
+
+    .jsformWrapper button {
+        background: rgba(196, 21, 28, 1);
+        border: none;
+        color: #fff;
+        width: 120px;
+        height: 40px;
+        line-height: 25px;
+        font-size: 16px;
+        font-family: sans-serif;
+        text-transform: uppercase;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+
+/* h3 {
+    text-align: center;
+    margin-top: 3rem;
+    color: rgba(196, 21, 28, 1);
+} */
+_msg{
+    background-color: yellow;
+    font-size: 14px;
+
+
+}

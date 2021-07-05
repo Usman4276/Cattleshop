@@ -1,0 +1,149 @@
+.ptp-body{
+    margin: 5% 15% 5% 15%;
+}
+.ptp-text-h4{
+    text-align: center;
+}
+.ptp-text-h6{
+    text-align: left;
+    position: relative;
+    margin-left: 20rem;
+}
+.ptp-text-body{
+    
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+}
+.ptp-pics{
+    margin-left: 1.4rem;
+}
+@media screen and (max-width:1920px){
+    .ptp-body{
+        margin: 5% 15% 5% 15%;
+    }
+    .ptp-text-h4{
+        text-align: center;
+    }
+    .ptp-text-h6{
+        text-align: left;
+        position: relative;
+        margin-left: 32rem;
+    }
+    .ptp-text-body{
+        
+        padding: 15px;
+        background-color: whitesmoke;
+        border-radius: 25px;
+    }
+    .ptp-pics{
+        margin-left: 7rem;
+    }
+    .ptp-buttton{
+        margin: 3rem 0rem 0rem 34rem;
+    }
+}
+@media screen and (max-width:1440px){
+    .ptp-body{
+        margin: 5% 10% 5% 10%;
+    }
+    .ptp-text-h4{
+        text-align: center;
+    }
+    .ptp-text-h6{
+        text-align: left;
+        position: relative;
+        margin-left: 25rem;
+    }
+    .ptp-text-body{
+        
+        padding: 15px;
+        background-color: whitesmoke;
+        border-radius: 25px;
+    }
+    .ptp-pics{
+        margin-left: 10rem;
+        margin-bottom: 2rem;
+    }
+    .ptp-buttton{
+        margin: 3rem 0rem 0rem 27rem;
+    }
+}
+@media screen and (max-width:1024px){
+    .ptp-body{
+        margin: 5% 10% 5% 10%;
+    }
+    .ptp-text-h4{
+        text-align: center;
+    }
+    .ptp-text-h6{
+        text-align: left;
+        position: relative;
+        margin-left: 15rem;
+    }
+    .ptp-text-body{
+        
+        padding: 15px;
+        background-color: whitesmoke;
+        border-radius: 25px;
+    }
+    .ptp-pics{
+        margin-left: 11rem;
+        margin-bottom: 2rem;
+    }
+    .ptp-buttton{
+        margin: 3rem 0rem 0rem 17rem;
+    }
+}
+@media screen and (max-width:768px){
+    .ptp-body{
+        margin: 5%;
+    }
+    .ptp-text-h4{
+        text-align: center;
+    }
+    .ptp-text-h6{
+        text-align: left;
+        position: relative;
+        margin-left: 10rem;
+    }
+    .ptp-text-body{
+        
+        padding: 15px;
+        background-color: whitesmoke;
+        border-radius: 25px;
+    }
+    .ptp-pics{
+        margin-left: 7rem;
+        margin-bottom: 2rem;
+    }
+    .ptp-buttton{
+        margin: 3rem 0rem 0rem 12rem;
+    }
+}
+@media screen and (max-width:425px){
+    .ptp-body{
+        margin: 18% 0% 0% 0%;
+    }
+    .ptp-text-h4{
+        text-align: center;
+    }
+    .ptp-text-h6{
+        text-align: left;
+        position: relative;
+        margin-left: 2rem;
+    }
+    .ptp-text-body{
+        
+        padding: 15px;
+        background-color: whitesmoke;
+        border-radius: 25px;
+    }
+    .ptp-pics{
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+    }
+    .ptp-buttton{
+        margin: 3rem 0rem 0rem 4rem;
+    }
+}

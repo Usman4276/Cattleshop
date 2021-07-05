@@ -1,0 +1,5 @@
+.events-registered-ticket-body-inner{
+    margin: 2rem;
+    height: 60vh;
+    overflow-y: scroll;
+}

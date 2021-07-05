@@ -1,0 +1,13 @@
+.admin-login-body{
+    margin: 5% 15% 5% 15%;
+    min-height: 70vh;
+}
+.admin-login-form{
+    margin: 15% 40%;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.admin-login-btn{
+    margin-left: 5rem;
+}

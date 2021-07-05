@@ -1,0 +1,97 @@
+.or-body{
+    margin: 5% 5% 5% 5%;
+    min-height: 70vh;
+}
+.or-data-row{
+    display: flex;
+    align-items: center;
+}
+.or-co-data1{
+    width: 20rem;
+    min-height: 20rem;
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.or-co-data2{
+    margin: 1rem;
+    width: 20rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.or-co-data3{
+    margin: 1rem;
+    width: 20rem;
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.or-co-data4{
+    margin: 1rem;
+    width: 20rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.or-data-img{
+    height: 8rem;
+    width: 10rem;
+    margin: 1rem;
+}
+
+
+.or-data-red-row{
+    display: flex;
+    align-items: center;
+}
+.or-data-red-e{
+    margin: 1rem;
+    width: 10rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.or-co-red-data1{
+    width: 15rem;
+    min-height: 20rem;
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.or-co-red-data2{
+    margin: 1rem;
+    width: 15em;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.or-co-red-data3{
+    margin: 1rem;
+    width: 15rem;
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.or-co-red-data4{
+    margin: 1rem;
+    width: 20rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.or-data-pd-blue-e{
+    margin: 1rem;
+    width: 17rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.or-data-pd-red-e{
+    margin: 1rem;
+    width: 10rem;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+}

@@ -1,0 +1,66 @@
+.stripe-payment{
+    margin: 5% 15% 5% 15%;
+    min-height: 60vh;
+    text-align: center;
+}
+.stripe-img{
+    border-radius: 15px;
+    width: 40rem;
+    height: 20rem;
+    margin-left: 14.5rem;
+}
+.stripe-align-btn{
+    text-align: center;
+    margin-left: 31rem;
+}
+@media screen and (max-width:1920px){
+    .stripe-payment{
+        margin: 5% 15% 5% 15%;
+        min-height: 60vh;
+        text-align: center;
+    }
+    .stripe-img{
+        border-radius: 15px;
+        width: 40rem;
+        height: 20rem;
+        margin-left: 14.5rem;
+    }
+    .stripe-align-btn{
+        text-align: center;
+        margin-left: 31rem;
+    }
+}
+@media screen and (max-width:1440px){
+    .stripe-payment{
+        margin: 5% 15% 5% 15%;
+        min-height: 60vh;
+        text-align: center;
+    }
+    .stripe-img{
+        border-radius: 15px;
+        width: 40rem;
+        height: 20rem;
+        margin-left: 4.5rem;
+    }
+    .stripe-align-btn{
+        text-align: center;
+        margin-left: 21.5rem;
+    }
+}
+@media screen and (max-width:1024px){
+    .stripe-payment{
+        margin: 5% 6% 5% 6%;
+        min-height: 60vh;
+        text-align: center;
+    }
+    .stripe-img{
+        border-radius: 15px;
+        width: 40rem;
+        height: 20rem;
+        margin-left: 0rem;
+    }
+    .stripe-align-btn{
+        text-align: center;
+        margin-left: 16rem;
+    }
+}

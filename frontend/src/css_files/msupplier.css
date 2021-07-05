@@ -1,0 +1,41 @@
+
+.s-each-data{
+    margin: 5% 5% 5% 5%;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 25px;
+    width: 28rem;
+    height: 14rem;
+}
+.s-data-btn{
+    margin-left: 7rem;
+}
+.s-data-row{
+    margin: 0% 11% 0% 12.1%;
+    height: 70vh;
+        position: absolute;
+        overflow-y: scroll;
+}
+
+@media screen and (max-width:1024px){
+
+
+    
+    .s-each-data{
+        margin: 5% 5% 5% 5%;
+        padding: 5px;
+        background-color: lightgrey;
+        border-radius: 25px;
+        width: 28rem;
+        height: 14rem;
+    }
+    .s-data-btn{
+        margin-left: 7rem;
+    }
+    .s-data-row{
+        margin: 0% 11% 0% 12.1%;
+        height: 70vh;
+        position: absolute;
+        overflow-y: scroll;
+    }
+}

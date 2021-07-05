@@ -1,0 +1,31 @@
+.goat-body{
+    margin: 5% 13.4% 5% 13%;
+    min-height: 100vh;
+}
+.goat-cards{
+    margin: 2% 1%;
+}
+@media screen and (max-width:1440px){
+    .goat-body{
+        margin: 5% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:1920px){
+    .goat-body{
+        margin: 5% 13.4% 5% 13%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:1024px){
+    .goat-body{
+        margin: 10% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:768px){
+    .goat-body{
+        margin: 15% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}

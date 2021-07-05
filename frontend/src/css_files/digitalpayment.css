@@ -1,0 +1,51 @@
+
+.DP-body{
+    margin: 8% 20% 15% 20%;
+}
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+
+#image1dp{
+    
+    display: block;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16rem;
+    height: 60px;
+    margin-bottom: 2.5rem;
+}
+
+#image2dp{
+    
+    display: block;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16rem;
+    height: 8rem;
+}
+
+.tx2dp{
+    margin-top: 8px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (max-width:768px){
+    .DP-body{
+        margin: 15% 20% 15% 20%;
+    }
+}
+
+@media screen and (max-width:525px){
+    .DP-body{
+        margin: 25% 0% 15% 0%;
+    }
+}

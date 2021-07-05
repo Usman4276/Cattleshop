@@ -1,0 +1,49 @@
+*{
+  padding:0px;
+  
+}
+.Register_body{
+  margin: 5% 12.5%;
+  align-content: center;
+  min-height: 60vh;
+}
+
+.Cards-div{
+  margin-left: 2%;
+}
+
+h5{
+  text-align: center;
+}
+
+.R-button{
+  display: flex; 
+  justify-content: center;
+}
+@media screen and (max-width:768px){
+  .Register_body{
+    margin: 20% 0%;
+    align-content: center;
+    
+  }
+  .Cards-div{
+    margin-left: 0%;
+  }
+  .R-headings-h1
+  {
+    font-size: 270%;
+  }
+}
+@media screen and (max-width:525px){
+  .Register_body{
+    margin: 20% 0%;
+    align-content: center;
+    
+  }
+  .Cards-div{
+    margin-left: 0%;
+  }
+  .R-headings-h1{
+    font-size: 170%;
+  }
+}

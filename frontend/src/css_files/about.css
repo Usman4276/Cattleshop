@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+#para{
+    
+    text-align: justify;
+   
+}
+
+.About-us-container{
+    margin: 8% 15% 15% 15%;
+    min-height: 60vh;
+}
+
+#pic1{
+    width: 4em;
+    height: 4.5em;
+    
+}
+
+.AU-box{
+    text-align: center;
+}

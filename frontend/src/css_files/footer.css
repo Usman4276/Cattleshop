@@ -1,0 +1,99 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+.my_container{
+    display: flex;
+    bottom: 0;
+    height: 250px;
+    align-items: center;
+    text-align: center;
+    background-color: lightgrey;
+    justify-content: space-around;
+    
+}
+.my_social {
+    margin-left: 33px;
+}
+
+
+.my_social li{
+    display: inline-flex;
+    letter-spacing: 30px;
+   
+    
+}
+p{
+    font-size: 18px;
+}
+
+li{
+    list-style: none;
+    font-size: 13px;
+    line-height: 20px;
+}
+:any-link{
+    color: black;
+    
+}
+:any-link:hover{
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+/* Media queries for responsive & margins */
+
+
+/* for screen size 'lg and larger' */
+
+@media screen and (max-width:1332px){
+    #id_social{
+        text-align: center;
+    }
+}
+
+
+/* for screen size 'md' */
+
+@media screen and (max-width:992px){
+    .my_container{
+        height: 400px;
+    }
+    #id_social{
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+
+
+/* for screen size 'sm' */
+
+@media screen and (max-width:768px){
+    .my_row{
+       text-align: center;
+    }   
+    #id_col3{
+        margin-top: 60px;
+    }
+    #id_social{
+        margin-top: 60px;
+    }
+}
+
+
+
+/* for screen size 'xs' */
+
+@media screen and (max-width:576px){
+    .my_container{
+        height: 700px;
+    }
+    .my_row{
+        text-align: center;        
+    }
+    .my_col{
+        margin-top: 46px;
+    }
+}

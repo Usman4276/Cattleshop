@@ -1,0 +1,31 @@
+.Camel-body{
+    margin: 5% 13.4% 5% 13%;
+    min-height: 100vh;
+}
+.camel-cards{
+    margin: 2% 1%;
+}
+@media screen and (max-width:1440px){
+    .Camel-body{
+        margin: 5% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:1920px){
+    .Camel-body{
+        margin: 5% 13.4% 5% 13%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:1024px){
+    .Camel-body{
+        margin: 10% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:768px){
+    .Camel-body{
+        margin: 15% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}

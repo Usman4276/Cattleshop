@@ -1,0 +1,56 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.PADR-main-body{
+    margin: 5% 30%;
+    height: 75vh;
+}
+
+@media screen and (max-width:1440px){
+    .PADR-main-body{
+        margin: 5% 10% 25% 10%;
+    }
+    .padr-body{
+        margin: 5% 23%;
+    }
+    .padr-h1{
+        font-size: 270%;
+    }
+  }
+  @media screen and (max-width:1024px){
+    .PADR-main-body{
+        margin: 5% 10% 30% 10%;
+    }
+    .padr-body{
+        margin: 5% 15%;
+    }
+    .padr-h1{
+        font-size: 220%;
+    }
+  }  
+@media screen and (max-width:768px){
+    .PADR-main-body{
+        margin: 5% 10% 40% 10%;
+    }
+    .padr-body{
+        margin: 5% 10%;
+    }
+    .padr-h1{
+        font-size: 170%;
+    }
+  }
+@media screen and (max-width:525px){
+    .PADR-main-body{
+        margin: 20% 1% 120% 1%;
+    }
+    .padr-body{
+        margin: 5% 1%;
+    }
+}

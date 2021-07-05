@@ -1,0 +1,35 @@
+.tca{ 
+    list-style-position: outside;
+}
+
+#mylist{
+    margin: 5% 15% 0% 15%;
+}
+
+#list1{
+    list-style-type: disc;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.TAC-body{
+    margin: 8% 15% 10% 15%;
+}
+
+@media screen and (max-width:768px){
+    .TAC-body{
+        margin: 20% 10% 10% 10%;
+    }
+    
+#mylist{
+    margin: 5% 0% 0% 0%;
+}
+
+#list1{
+    list-style-type: disc;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+}

@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+.my_nav{
+    background-color: lightgray;
+    font-size: 20px;
+}
+
+.my_navitems{
+    margin-left: 5rem;
+}
+
+#brand{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.searchBtn{
+    margin-top: 0.5rem;
+    margin-right: 1.5rem;
+    height: 2.35rem;
+    border-radius: 30px;
+}
+
+.mr-sm-2{
+    border-radius: 30px;
+
+}

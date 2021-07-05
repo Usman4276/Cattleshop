@@ -1,0 +1,25 @@
+.Admin-Dashboard{
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+
+}
+.Admin-Dashboard-buttons{
+    margin: 0rem 0rem 2rem 0rem;
+}
+.admindash-h6{
+    font-size: small;
+}
+.admindash-body{
+    margin: 5% 0% 5% 0%;
+    min-height: 50vh;
+}
+.admindash-body-inner{
+    margin-left: 1rem;
+    padding: 15px;
+    background-color: white;
+    border-radius: 25px;
+}
+.admindash-heading{
+    margin: 0% 10% 0% 10%;
+}

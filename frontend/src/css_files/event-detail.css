@@ -1,0 +1,15 @@
+.ed-body{
+    margin: 5% 5% 5% 5%;
+    min-height: 60vh;
+}
+.eventdetail-btn{
+    margin: 0rem 0rem 0rem 3.5rem; 
+}
+.col-body-details{
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+    height: 25rem;
+    width: 15rem;
+    margin: 1rem 1rem;
+}

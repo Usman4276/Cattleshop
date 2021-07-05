@@ -1,0 +1,13 @@
+.acc-body{
+    margin: 4% 0% 0% 0%;
+    min-height: 70vh;
+    text-align: center;
+}
+.account-data{
+    
+    padding: 15px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    text-align: left;
+    width: 20rem;
+}

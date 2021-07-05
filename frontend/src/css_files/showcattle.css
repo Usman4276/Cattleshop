@@ -1,0 +1,15 @@
+
+
+.sc-body{
+    margin: 8% 15% 5% 15%;
+    min-height: 100vh;
+}
+
+.sc-data{
+    margin: 0% 15% 0% 19.5%;
+}
+.data-bc{
+    padding: 25px;
+    background-color: lightgrey;
+    border-radius: 20px;
+}

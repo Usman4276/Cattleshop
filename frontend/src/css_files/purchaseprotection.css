@@ -1,0 +1,30 @@
+
+.tcapp{ 
+    list-style-position: outside;
+}
+
+#mylistpp{
+    margin: 5% 15% 0% 15%;
+}
+
+#list1pp{
+    list-style-type: disc;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.PP-body{
+    margin: 8% 20% 15% 20%;
+    min-height: 50vh;
+}
+@media screen and (max-width:768px){
+    .PP-body{
+        margin: 20% 20% 10% 20%;
+    }
+    .PP-headings-h1{
+        font-size: 170%;
+    }
+    #mylistpp{
+        margin: 5% 0% 0% 0%;
+    }
+}

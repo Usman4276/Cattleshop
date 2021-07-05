@@ -1,0 +1,42 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+
+.Login-main-body{
+    margin: 5% 15% 8% 15%;
+}
+
+.Login-body{
+    margin: 3% 25%;
+    min-height: 40vh;
+}
+
+@media screen and (max-width:1024px){
+    .Login-main-body{
+        margin: 5% 5% 8% 5%;
+    }
+  }
+@media screen and (max-width:768px){
+    .Login-main-body{
+        margin: 20% 5% 8% 5%;
+    }
+    .Login-body{
+        margin: 3% 20%;
+    }
+    .L-headings-h1{
+        font-size: 270%;
+    }
+  }
+@media screen and (max-width:525px){
+    .Login-main-body{
+        margin: 20% 1% 8% 1%;
+    }
+    .Login-body{
+        margin: 3% 0%;
+    }
+    .L-headings-h1{
+        font-size: 170%;
+    }
+}

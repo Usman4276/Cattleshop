@@ -1,0 +1,33 @@
+.Cow-body{
+    margin: 5% 13.4% 5% 13%;
+    min-height: 100vh;
+}
+.cow-cards{
+    margin: 2% 1%;
+}
+
+@media screen and (max-width:1440px){
+    .Cow-body{
+        margin: 5% 10% 5% 10%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:1920px){
+    .Cow-body{
+        margin: 5% 13.4% 5% 13%;
+        min-height: 100vh;
+    }
+}
+
+@media screen and (max-width:1024px){
+    .Cow-body{
+        margin: 10% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}
+@media screen and (max-width:768px){
+    .Cow-body{
+        margin: 15% 12% 5% 12%;
+        min-height: 100vh;
+    }
+}

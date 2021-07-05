@@ -1,0 +1,41 @@
+
+.pd-each-data{
+    margin: 5% 5% 5% 10%;
+    padding: 5px;
+    background-color: lightgrey;
+    border-radius: 25px;
+    width: 28rem;
+    height: 17rem;
+}
+.pd-data-btn{
+    margin-left: 7rem;
+}
+.pd-data-row{
+    margin: 0% 11% 0% 12.1%;
+    height: 70vh;
+    position: absolute;
+    overflow-y: scroll;
+}
+
+@media screen and (max-width:1024px){
+
+
+    
+    .pd-each-data{
+        margin: 5% 5% 5% 5%;
+        padding: 5px;
+        background-color: lightgrey;
+        border-radius: 25px;
+        width: 28rem;
+        height: 14rem;
+    }
+    .pd-data-btn{
+        margin-left: 7rem;
+    }
+    .pd-data-row{
+        margin: 0% 11% 0% 12.1%;
+        height: 70vh;
+        position: absolute;
+        overflow-y: scroll;
+    }
+}

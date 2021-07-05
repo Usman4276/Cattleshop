@@ -1,0 +1,38 @@
+.pm-body{
+    min-height: 70vh;
+    margin: 5% 10% 0% 10%;
+}
+.pm-btn{
+    margin-top: 3rem;
+    margin-left: 38.5rem;
+}
+@media screen and (max-width:1440px){
+    .pm-body{
+        min-height: 70vh;
+        margin: 5% 21% 0% 21%;
+    }
+    .pm-btn{
+        margin-top: 3rem;
+        margin-left: 18.5rem;
+    }
+}
+@media screen and (max-width:1024px){
+    .pm-body{
+        min-height: 70vh;
+        margin: 5% 23% 0% 23%;
+    }
+    .pm-btn{
+        margin-top: 3rem;
+        margin-left: 8.5rem;
+    }
+}
+@media screen and (max-width:425px){
+    .pm-body{
+        min-height: 70vh;
+        margin: 0% 0% 0% -23%;
+    }
+    .pm-btn{
+        margin-top: 3rem;
+        margin-left: 9rem;
+    }
+}

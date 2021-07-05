@@ -1,0 +1,210 @@
+*{
+  padding:0px;
+  margin: 0px;
+  
+}
+
+.first-Heading{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.H-headings-h1{
+  font-size: 370%;
+}
+.homep{
+  height: 70rem;
+}
+
+h1{
+    transition: 0.5s;
+}
+
+.headingtextcattle{
+  font-size: 1000%;
+  color:#fff;
+}
+
+.headingtextshop{
+  font-size: 810%;
+  color:#fff;
+}
+
+
+.card:hover{
+    box-shadow: 10px 5px 5px rgb(156, 154, 154);
+    transition: all 0.3s ease-in;
+  }
+
+
+.row {
+    margin: 0 25px;
+    padding: 20px;
+}
+
+.card{
+    border-radius: 10px;
+}
+.card {
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow:  2px 2px rgb(177, 175, 175);
+    padding: 8px;
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 97%;
+    height: min-content;
+    transition: all 0.4s ease-out;
+    
+  }
+  
+
+  .scroll-downs {
+    position: absolute;
+    top: 80%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width :34px;
+    height: 55px;
+  }
+  .mousey {
+    width: 3px;
+    padding: 10px 15px;
+    height: 35px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    opacity: 0.75;
+    box-sizing: content-box;
+  }
+  .scroller {
+    width: 3px;
+    height: 10px;
+    border-radius: 25%;
+    background-color: #fff;
+    animation-name: scroll;
+    animation-duration: 2.2s;
+    animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+    animation-iteration-count: infinite;
+  }
+  @keyframes scroll {
+    0% { opacity: 0; }
+    10% { transform: translateY(0); opacity: 1; }
+    100% { transform: translateY(15px); opacity: 0;}
+  }
+
+  .Home-About-us-container{
+    margin: 8% 15% 5% 15%;
+  }
+  
+  .H-Headings{
+    margin: 0% 15% 0% 15%;
+  }
+  .H-Slider{
+    margin: 2% 0% 2% 0%;
+  }
+
+  
+/* for screen size 'lg and larger' */
+
+@media screen and (max-width:1440px){
+  .headingtextcattle{
+    font-size: 1000%;
+    color:#fff;
+  }
+  
+  .headingtextshop{
+    font-size: 810%;
+    color:#fff;
+  }
+  .home-pic{
+    height: 55rem;
+  }
+}
+
+@media screen and (max-width:1024px){
+  .headingtextcattle{
+    font-size: 1000%;
+    color:#fff;
+  }
+  
+  .headingtextshop{
+    font-size: 810%;
+    color:#fff;
+  }
+  .home-pic{
+    height: 55rem;
+  }
+}
+
+
+/* for screen size 'md' */
+
+@media screen and (max-width:992px){
+  .headingtextcattle{
+    font-size: 1000%;
+    color:#fff;
+  }
+  
+  .headingtextshop{
+    font-size: 810%;
+    color:#fff;
+  }
+  
+  .home-pic{
+    height: 55rem;
+  }
+}
+
+
+/* for screen size 'sm' */
+
+@media screen and (max-width:768px){
+  .headingtextcattle{
+    font-size: 900%;
+    color:#fff;
+  }
+  
+  .headingtextshop{
+    font-size: 710%;
+    color:#fff;
+  }
+  .homep{
+    height: 55rem;
+  }
+  .home-acol{
+    margin-top: 3rem;
+  }
+  .home-acol2{
+    margin-top: 3rem;
+  }
+  .home-acol3{
+    margin-top: 3rem;
+  }
+  .H-headings-h1{
+    font-size: 270%;
+  }
+  .HAU-boc{
+    text-align: center;
+  }
+}
+
+
+
+/* for screen size 'xs' */
+
+@media screen and (max-width:576px){
+  .headingtextcattle{
+  font-size: 700%;
+  color:#fff;
+}
+
+.headingtextshop{
+  font-size: 510%;
+  color:#fff;
+}
+
+}

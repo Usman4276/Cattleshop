@@ -1,0 +1,5 @@
+.order-history{
+    margin: 2rem;
+    height: 60vh;
+    overflow-y: scroll;
+}
